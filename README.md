@@ -1,21 +1,27 @@
-#Learning ROS for Robotics Programming
-This is the code repository for [Learning ROS for Robotics Programming](https://www.packtpub.com/hardware-and-creative/learning-ros-robotics-programming?utm_source=github&utm_medium=repository&utm_campaign=9781782161448), published by Packt Publishing. It contains all the supporting project files necessary to work through the book from start to finish.
+# About the Book
+With Docker, it is possible to get a lot of apps running on the same old servers, making it very easy to package and ship programs. The ability to extend Docker using plugins and load third-party plugins is incredible, and organizations can massively benefit from it.
+
+#Extending Docker
+This is the code repository for [Extending Docker](https://www.packtpub.com/networking-and-servers/extending-docker?utm_source=github&utm_medium=repository&utm_campaign=9781786463142), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 ##Instructions and Navigations
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
-gggggghhhhh
 
+
+
+The code will look like the following:
 ```
-{
-1233
-}
+abcd
+ddd
+fff
 ```
 
-gggg
+abcd
+
 ##Related Products
-* [Learning ROS for Robotics Programming](https://www.packtpub.com/hardware-and-creative/learning-ros-robotics-programming?utm_source=github&utm_medium=repository&utm_campaign=9781782161448)
+* [Mastering Docker](https://www.packtpub.com/virtualization-and-cloud/mastering-docker?utm_source=github&utm_medium=repository&utm_campaign=9781785287039)
 
-* [Learning ROS for Robotics Programming](https://www.packtpub.com/hardware-and-creative/learning-ros-robotics-programming?utm_source=github&utm_medium=repository&utm_campaign=9781782161448)
+* [Docker: Creating Structured Containers](https://www.packtpub.com/virtualization-and-cloud/docker-creating-structured-containers?utm_source=github&utm_medium=repository&utm_campaign=9781786465931)
 
-* [Learning ROS for Robotics Programming](https://www.packtpub.com/hardware-and-creative/learning-ros-robotics-programming?utm_source=github&utm_medium=repository&utm_campaign=9781782161448)
+* [Docker High Performance](https://www.packtpub.com/networking-and-servers/docker-high-performance?utm_source=github&utm_medium=repository&utm_campaign=9781785886805)
 ###Suggestions and Feedback
-https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
