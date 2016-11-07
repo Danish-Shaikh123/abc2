@@ -1,3 +1,5 @@
+![Packt](https://media.glassdoor.com/sql/438946/packt-squarelogo-1474954463150.png)
+
 # About the Book
 With Docker, it is possible to get a lot of apps running on the same old servers, making it very easy to package and ship programs. The ability to extend Docker using plugins and load third-party plugins is incredible, and organizations can massively benefit from it.
 
